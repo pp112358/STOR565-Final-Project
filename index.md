@@ -1,12 +1,14 @@
-## Welcome to GitHub Pages
+## Welcome to Our Final Project Website
 
-You can use the [editor on GitHub](https://github.com/pp112358/STOR565-Final-Project/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+We are going to continue posting our progress in this website.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Group Memeber
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Ziqin He
+Juan Shi
+Redmund Chen
+Vivian Li
 
 ```markdown
 Syntax highlighted code block
