@@ -8,7 +8,7 @@ We are going to continue posting our progress in this website.
 Health Data Analysis
 
 ## Project Proposal
-[Project Proposal](https://docs.google.com/document/d/1x0pTUvdbcYQig3JZljXdAQ24YAyJs228kf_v0yItHaM/edit)
+[Project Proposal](https://drive.google.com/file/d/1k5-X1f_-WFNJA9l1nJDIzfS65P3A21Qf/view)
 
 
 ## Weekly Report
