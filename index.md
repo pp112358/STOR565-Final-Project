@@ -14,6 +14,7 @@ Health Data Analysis
 ## Weekly Report
 [Weekly Report 1 Date: March 04th](https://docs.google.com/document/d/18QV54tnZtXG4ZJdZW7dMYZ-MM7z4eKxQ1u3wGJqSuo8/edit)
 
+[Weekly Report 2 Date: Marcg 25th](https://docs.google.com/document/d/1LRyPqW7YrWtb4eOkrQOEZTdZ0oduTrPxknTZAPJwjfo/edit)
 ### Group Memeber
 
 - Ziqin He
