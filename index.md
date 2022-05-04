@@ -18,13 +18,15 @@ Health Data Analysis
 
 [Weekly Report 3 Date: April 07th](https://docs.google.com/document/d/1YUwBpz3DW7FP7bHtyZ9G4d1JFRGAk43H-rO4tllgMng/edit)
 
-### Group Memeber
+### Group Member
 
 - Ziqin He
 - Juan Shi
 - Redmund Chen
 - Vivian Li
 
+### Final Report
+[Final Report](https://docs.google.com/document/d/173xVRDb3EWjoyFMQrKILqgmb-ExXatoCX5TFFUjrp8c/edit)
 
 
 
